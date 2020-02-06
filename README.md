@@ -1,0 +1,2 @@
+# ms-lottery
+lottery
